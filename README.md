@@ -29,3 +29,7 @@ Jacket : jibib + 1
 
 Pants - Legs : lowr + 1
 
+Armor : task
+فش
+chain : teef
+
