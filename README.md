@@ -17,19 +17,27 @@ data_file 'SHOP_PED_APPAREL_META_FILE' 'mp_m_freemode_01_mp_m_busmods.meta'
 data_file 'SHOP_PED_APPAREL_META_FILE' 'mp_f_freemode_01_mp_f_busmods.meta'
 ```
 
-Shirt & Armor : mp_m_freemode_01^accs_001_u + 1
+Shirt & Armor : accs
 
-Mask : bred + 1
+Mask : berd
 
-Decals : decals + 1
+Decals : decl  
 
-Shoes : feet + 1
+Shoes : feet
 
-Jacket : jibib + 1
+Jacket : jbib
 
-Pants - Legs : lowr + 1
+Pants - Legs : lowr
 
 Armor : task
-فش
+
 chain : teef
+
+watch : lwrist
+
+glass : eyes
+
+hat : head
+
+acces and earings : ears
 
