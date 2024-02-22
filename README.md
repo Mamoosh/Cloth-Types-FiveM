@@ -17,11 +17,11 @@ data_file 'SHOP_PED_APPAREL_META_FILE' 'mp_m_freemode_01_mp_m_busmods.meta'
 data_file 'SHOP_PED_APPAREL_META_FILE' 'mp_f_freemode_01_mp_f_busmods.meta'
 ```
 
-Shirt & Armor : accs
+Shirt : accs
 
 Mask : berd
 
-Decals : decl  
+Decals : decl
 
 Shoes : feet
 
@@ -31,7 +31,7 @@ Pants - Legs : lowr
 
 Armor : task
 
-chain : teef
+accesories  : teef
 
 watch : lwrist
 
@@ -39,5 +39,5 @@ glass : eyes
 
 hat : head
 
-acces and earings : ears
+earings : ears
 
